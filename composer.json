@@ -1,0 +1,16 @@
+{
+    "name": "Cariola",
+    "description": "Helpers",
+    "authors": [
+        {
+            "name": "MarkoC",
+            "email": "marko.curkovic@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": { "Cariola\\": "" }
+    },
+    "minimum-stability": "dev",
+    "require": {
+    }
+}
